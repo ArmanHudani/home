@@ -1,0 +1,192 @@
+P
+{
+	font-size: 12pt; /*This will make sure all my paragraphs have a 12 point font size*/
+	color: white;
+}
+h1, h2
+{
+	color: orange;
+}
+Body
+{
+	background-color: black; /*This will make sure that background of all my website pages will be the colour black*/
+}
+li
+{
+	color: SkyBlue; /*This will give all my list items the colour skyblue to make my website more appealing*/
+} 
+#TheHistory
+{
+	color: LightCoral; /*This will allow all the elements with this ID to have the colour LightCoral*/
+}
+#RulesandRegulations
+{
+	color: Lime;
+}
+.ball
+{
+	text-align: center;
+}
+img
+{
+	margin-left: 33%; /* This margin will allow my to center my images */
+	border: solid; /* This will allow me t add a simple and solid border to all my images */
+	border-color: white;
+}
+h3
+{
+	color: Magenta; /*This will allow all the headings level 3 to become the colour Magenta*/
+}
+h4
+{
+	color: yellow; /* This will allow all the headings level 4 to become the colour yellow*/
+}
+#logo 
+{
+	margin-left: 38%;
+	border: solid;
+	border-color: lime;
+}
+.og
+{
+	color: LightCoral;
+}
+#court
+{
+	border: solid;
+	border-color: Salmon;
+	margin-left: 40%;
+}
+#larry
+{
+	border: solid;
+	border-color: teal; 
+	margin-left: 40%;
+}
+.yellow
+{
+	color: yellow;
+}
+#wildcats
+{
+	border: solid;
+	border-color: lime;
+	margin-left: 36%;
+}
+#Kyle
+{
+	border: solid;
+	border-color: white;
+	margin-left: 41.5%;
+}
+#Raptor
+{
+	border: solid;
+	border-color: white;
+	margin-left: 44%;
+}
+#chris
+{
+	margin-left: 40%;
+	border: solid;
+	border-color: lime;
+}
+#win
+{
+	border: solid;
+	border-color: teal; 
+	margin-left: 39%;
+}
+#navbar
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+	background-color: black;
+}
+.sidebar
+{
+	float: left; /*This will make sure that all the elements float beside each other in the navigation bar*/
+}
+.sidebar2
+{
+	float: left; /*This will make sure that all the elements float beside each other in the navigation bar*/
+}
+.sidebar1, .sidebar
+{
+    display: block; /*This will allow me to specify padding for my navigation bar*/ 
+    color: white;
+    text-align: center;
+    padding: 20px 22px; /*This will allow me to specify some padding between each anchor element to make them look good*/ 
+	text-decoration: none; /*This will take away the dots from my list items*/
+}
+.sidebar2, .sidebar3
+{
+    display: block; /*This will allow me to specify padding for my navigation bar*/ 
+    color: white;
+    text-align: center;
+    padding: 17px 19px; /*This will allow me to specify some padding between each anchor element to make them look good*/ 
+	text-decoration: none; /*This will take away the dots from my list items*/
+}
+#navbar
+{
+	position: fixed; /*This will make my navigation bar stay in one position at all times*/
+	top: 0;
+	width: 100%;
+}
+.sidebar, .sidebar1:hover
+{
+	background-color: #111;
+}
+.sidebar2, .sidebar3:hover
+{
+	background-color: #111; 
+}
+body 
+{
+	margin-top: 105px; /*This will make sure that my heading 1 of the website will go underneath the navigation bar hence becoming visible*/
+}
+#vintage
+{
+	border: solid;
+	border-color: Salmon;
+	margin-left: 37.5%;
+}
+.sites
+{
+	font-size: 8pt;
+	font-style: italic; /*This will help distinguish the sources from the actual information*/
+	text-align: center; /*This will help me align my images sources with my images*/
+}
+.sites1
+{
+	font-size: 9pt;
+	font-style: italic; /*This will help distinguish the sources from the actual information*/
+}
+#parade
+{
+	border: solid;
+	border-color: teal; 
+	margin-left: 35%;
+}	
+.red
+{
+	color: red; /*This will change the colours of all my links into red*/
+}
+.color2
+{
+	display: block; /*This will allow me to specify padding for my navigation bar*/ 
+    color: lime;
+    text-align: center;
+    padding: 20px 22px; /*This will allow me to specify some padding between each anchor element to make them look good*/ 
+    text-decoration: none; /*This will take away the dots from my list items*/
+}
+.color1
+{
+	display: block; /*This will allow me to specify padding for my navigation bar*/ 
+    color: red;
+    text-align: center;
+    padding: 20px 22px; /*This will allow me to specify some padding between each anchor element to make them look good*/ 
+    text-decoration: none; /*This will take away the dots from my list items*/
+}
