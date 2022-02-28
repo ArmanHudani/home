@@ -190,3 +190,11 @@ body
     padding: 20px 22px; /*This will allow me to specify some padding between each anchor element to make them look good*/ 
     text-decoration: none; /*This will take away the dots from my list items*/
 }
+.w3c
+{
+	margin-left: 47%;
+}
+#css
+{
+	margin-left: auto;
+}
