@@ -132,7 +132,7 @@ h4
 #navbar
 {
 	position: fixed; /*This will make my navigation bar stay in one position at all times*/
-	top: 0;
+	bottom: 0;
 	width: 100%;
 }
 .sidebar, .sidebar1:hover
@@ -142,10 +142,6 @@ h4
 .sidebar2, .sidebar3:hover
 {
 	background-color: #111; 
-}
-body 
-{
-	margin-top: 105px; /*This will make sure that my heading 1 of the website will go underneath the navigation bar hence becoming visible*/
 }
 #vintage
 {
