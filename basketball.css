@@ -120,14 +120,18 @@ h4
     text-align: center;
     padding: 20px 22px; /*This will allow me to specify some padding between each anchor element to make them look good*/ 
 	text-decoration: none; /*This will take away the dots from my list items*/
+	font-size: bold;
 }
 .sidebar2, .sidebar3
 {
     display: block; /*This will allow me to specify padding for my navigation bar*/ 
     color: white;
     text-align: center;
-    padding: 17px 19px; /*This will allow me to specify some padding between each anchor element to make them look good*/ 
+    padding: 19px 21px; /*This will allow me to specify some padding between each anchor element to make them look good*/ 
+	padding-right: 20px;
+	padding-top: 22px;
 	text-decoration: none; /*This will take away the dots from my list items*/
+	font-stretch: bold;
 }
 #navbar
 {
@@ -137,11 +141,11 @@ h4
 }
 .sidebar, .sidebar1:hover
 {
-	background-color: #111;
+	background-color: rgb(165,25,0);
 }
 .sidebar2, .sidebar3:hover
 {
-	background-color: #111; 
+	background-color: rgb(165,25,0); 
 }
 #vintage
 {
@@ -173,18 +177,20 @@ h4
 .color2
 {
 	display: block; /*This will allow me to specify padding for my navigation bar*/ 
-    color: lime;
+    color: blue;
     text-align: center;
     padding: 20px 22px; /*This will allow me to specify some padding between each anchor element to make them look good*/ 
     text-decoration: none; /*This will take away the dots from my list items*/
+	font-style: bold;
 }
 .color1
 {
 	display: block; /*This will allow me to specify padding for my navigation bar*/ 
-    color: red;
+    color: black;
     text-align: center;
     padding: 20px 22px; /*This will allow me to specify some padding between each anchor element to make them look good*/ 
     text-decoration: none; /*This will take away the dots from my list items*/
+	font-style: bold;
 }
 .w3c
 {
