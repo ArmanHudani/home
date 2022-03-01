@@ -120,7 +120,6 @@ h4
     text-align: center;
     padding: 20px 22px; /*This will allow me to specify some padding between each anchor element to make them look good*/ 
 	text-decoration: none; /*This will take away the dots from my list items*/
-	font-size: bold;
 }
 .sidebar2, .sidebar3
 {
@@ -131,7 +130,6 @@ h4
 	padding-right: 20px;
 	padding-top: 22px;
 	text-decoration: none; /*This will take away the dots from my list items*/
-	font-stretch: bold;
 }
 #navbar
 {
@@ -181,7 +179,6 @@ h4
     text-align: center;
     padding: 20px 22px; /*This will allow me to specify some padding between each anchor element to make them look good*/ 
     text-decoration: none; /*This will take away the dots from my list items*/
-	font-style: bold;
 }
 .color1
 {
@@ -190,7 +187,6 @@ h4
     text-align: center;
     padding: 20px 22px; /*This will allow me to specify some padding between each anchor element to make them look good*/ 
     text-decoration: none; /*This will take away the dots from my list items*/
-	font-style: bold;
 }
 .w3c
 {
